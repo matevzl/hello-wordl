@@ -1,2 +1,3 @@
 # hello-wordl
-Starting repository
+
+I would like to learn more about git.
